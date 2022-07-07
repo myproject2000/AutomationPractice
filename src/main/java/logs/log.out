@@ -1,0 +1,33 @@
+2022-07-06 21:07:625 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-07-06 21:07:347 INFO  SummerDressesPage :65 - Mouse hoover on dresses link : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-07-06 21:07:144 INFO  SummerDressesPage :70 - Click on summer dresses : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/ul[1]/li[3]/a[1]]
+2022-07-06 21:07:325 INFO  SummerDressesPage :80 - Mouse hoover on product : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[1]/img[1]]
+2022-07-06 21:07:389 INFO  SummerDressesPage :85 - Click on  add to cart : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[2]/div[2]/a[1]/span[1]]
+2022-07-06 21:07:634 INFO  SummerDressesPage :90 - Click on proceed to checkout link1 : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[2]/div[4]/a[1]/span[1]]
+2022-07-06 21:07:918 INFO  SummerDressesPage :95 - Click on proceed to checkOut link2 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[2]/a[1]/span[1]'
+2022-07-06 21:07:30 INFO  SummerDressesPage :100 - Enter email address : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //input[@id='email']]
+2022-07-06 21:07:95 INFO  SummerDressesPage :105 - Enter password : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //input[@id='passwd']]
+2022-07-06 21:07:869 INFO  SummerDressesPage :110 - Click on sign : Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2022-07-06 21:07:940 INFO  SummerDressesPage :115 - Click on proceed to checkout link3 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 21:07:995 INFO  SummerDressesPage :120 - Click on term of services button : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //input[@id='cgv']]
+2022-07-06 21:07:296 INFO  SummerDressesPage :125 - Click on proceed checkout link4 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 21:07:573 INFO  SummerDressesPage :130 - Pay by bank wire link : Proxy element for: DefaultElementLocator 'By.partialLinkText: Pay by bank wi'
+2022-07-06 21:07:519 INFO  SummerDressesPage :135 - Click On i confirm my order link : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 21:07:535 INFO  SummerDressesPage :139 - Verify order confirmation : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //h1[contains(text(),'Order confirmation')]]
+2022-07-06 21:07:559 INFO  SummerDressesPage :139 - Verify order confirmation : [[ChromeDriver: chrome on WINDOWS (0452e432df21a0b33aca59e068e544bd)] -> xpath: //h1[contains(text(),'Order confirmation')]]
+2022-07-06 22:07:382 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-07-06 22:07:663 INFO  SummerDressesPage :65 - Mouse hoover on dresses link : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-07-06 22:07:62 INFO  SummerDressesPage :70 - Click on summer dresses : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/ul[1]/li[3]/a[1]]
+2022-07-06 22:07:282 INFO  SummerDressesPage :80 - Mouse hoover on product : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[1]/img[1]]
+2022-07-06 22:07:343 INFO  SummerDressesPage :85 - Click on  add to cart : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[2]/div[2]/a[1]/span[1]]
+2022-07-06 22:07:899 INFO  SummerDressesPage :90 - Click on proceed to checkout link1 : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[2]/div[4]/a[1]/span[1]]
+2022-07-06 22:07:372 INFO  SummerDressesPage :95 - Click on proceed to checkOut link2 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[2]/a[1]/span[1]'
+2022-07-06 22:07:451 INFO  SummerDressesPage :100 - Enter email address : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //input[@id='email']]
+2022-07-06 22:07:532 INFO  SummerDressesPage :105 - Enter password : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //input[@id='passwd']]
+2022-07-06 22:07:972 INFO  SummerDressesPage :110 - Click on sign : Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2022-07-06 22:07:397 INFO  SummerDressesPage :115 - Click on proceed to checkout link3 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 22:07:503 INFO  SummerDressesPage :120 - Click on term of services button : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //input[@id='cgv']]
+2022-07-06 22:07:963 INFO  SummerDressesPage :125 - Click on proceed checkout link4 : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 22:07:315 INFO  SummerDressesPage :130 - Pay by bank wire link : Proxy element for: DefaultElementLocator 'By.partialLinkText: Pay by bank wi'
+2022-07-06 22:07:24 INFO  SummerDressesPage :135 - Click On i confirm my order link : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]'
+2022-07-06 22:07:42 INFO  SummerDressesPage :139 - Verify order confirmation : [[ChromeDriver: chrome on WINDOWS (1faf91417e12d0b87edd2b2e16b228d8)] -> xpath: //h1[contains(text(),'Order confirmation')]]
